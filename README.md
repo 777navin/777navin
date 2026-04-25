@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Competitive+Programmer;AI+%26+Full+Stack+Developer;DSA+Enthusiast;Building+with+Code+%26+AI" alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=777navin&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=777navin&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -29,7 +31,6 @@ I am a passionate **Competitive Programmer** and **AI Developer** specializing i
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=777navin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=777navin&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
