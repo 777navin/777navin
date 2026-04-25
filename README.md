@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Navinkumar Tirupati Tumma
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/777navin/777navin/main/github_readme_banner.png" width="100%" alt="Banner" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Competitive+Programmer;AI+%26+Full+Stack+Developer;DSA+Enthusiast;Building+with+Code+%26+AI" alt="Typing SVG" />
 </div>
