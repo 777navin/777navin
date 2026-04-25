@@ -4,7 +4,7 @@
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Competitive+Programmer;AI+%26+Full+Stack+Developer;DSA+Enthusiast;Building+with+Code+%26+AI" alt="Typing SVG" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=777navin&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=777navin&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
@@ -30,14 +30,6 @@ I am a passionate **Competitive Programmer** and **AI Developer** specializing i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=777navin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=777navin&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/777navin/777navin/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -75,10 +67,6 @@ I am a passionate **Competitive Programmer** and **AI Developer** specializing i
 
 ### 🏆 Competitive Programming
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/navin_aaryan_777?theme=tokyonight&font=Space+Grotesk" alt="LeetCode Stats" />
-</div>
-
 | Platform | Handle | Achievement |
 | :--- | :--- | :--- |
 | **LeetCode** | [@navin_aaryan_777](https://leetcode.com/u/navin_aaryan_777/) | Rating: **1712** (Top 12.48%) |
@@ -114,9 +102,6 @@ I am a passionate **Competitive Programmer** and **AI Developer** specializing i
   <a href="https://wa.me/918329760179" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=777navin&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
 <p align="center">
   <i>"Code. Build. Scale. Repeat."</i><br/>
